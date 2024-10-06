@@ -1,6 +1,6 @@
 # Compliance Dashboard
 
-This project is a compliance dashboard showcasing various compliance metrics for startup companies, such as compliance score, risk assessments, audit history, and upcoming deadlines. The project is built using React, TypeScript, Tailwind CSS for the front end, and Node.js with Express for the backend.
+This project is a compliance dashboard showcasing various compliance metrics, such as compliance scores, risk assessments, audit history, and upcoming deadlines. The project is built using React, TypeScript, Tailwind CSS for the front end, and Node.js with Express for the backend.
 
 ## Features
 
@@ -77,3 +77,6 @@ The frontend should now be running at `http://localhost:3000`.
 ## Screenshots
 
 ### Compliance Dashboard
+<img width="1440" alt="Screen Shot 2024-10-06 at 6 05 46 PM" src="https://github.com/user-attachments/assets/38a087ee-9ca8-454d-b126-03470a9547c9">
+
+
