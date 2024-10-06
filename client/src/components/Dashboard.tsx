@@ -188,6 +188,9 @@ const Dashboard: React.FC = () => {
       ) : (
         <p>Loading...</p>
       )}
+      <div className="flex justify-center right-2 text-sm text-gray-500 opacity-50 mt-6">
+        © Kashyap Prajapati
+      </div>
     </div>
   );
 };
