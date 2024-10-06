@@ -77,6 +77,7 @@ The frontend should now be running at `http://localhost:3000`.
 ## Screenshots
 
 ### Compliance Dashboard
-<img width="1440" alt="Screen Shot 2024-10-06 at 6 05 46 PM" src="https://github.com/user-attachments/assets/38a087ee-9ca8-454d-b126-03470a9547c9">
+<img width="1440" alt="Screen Shot 2024-10-06 at 7 04 34 PM" src="https://github.com/user-attachments/assets/2e959c01-ba84-4f31-ada3-d017a6659c2b">
+
 
 
